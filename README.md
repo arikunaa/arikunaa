@@ -1,5 +1,6 @@
+
 <p align="center">
-<img src="GvsHitKXMAAaJmF.jpeg"/>
+<img src="https://github.com/arikunaa/arikunaa/blob/8e0d3ad45bb5093320f1b3cf543fe6bebcfe452f/20260117_183811.png"/>
 </p>
 
 <p align="center">
