@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arikunaa&color=000000&label=meow">
+  <img src="https://komarev.com/ghpvc/?username=arikunaa&color=000000&label=fools">
 </p>
 <p align="center">
-<img src="https://github.com/arikunaa/arikunaa/blob/8e0d3ad45bb5093320f1b3cf543fe6bebcfe452f/20260117_183811.png"/>
+<img src="https://github.com/arikunaa/arikunaa/blob/e0a94f543c6959c156e4bddf45be4dd2094ace93/Untitled448_20260119193143.png" width="300"/>
 </p>
 
 <p align="center">
