@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=arikunaa&color=000000&label=newcomers">
 </p>
 <p align="center">
-<img src="https://github.com/arikunaa/arikunaa/blob/ab5f37f08267d3966aa931187d20a8d4c923aa08/Untitled408_20250521185308.png" width="700"/>
+<img img src="https://github.com/arikunaa/arikunaa/blob/52107b43b73038f7cde5fd7187e61be99cf98321/Untitled454_20260327174826.png" width="500"/>
 </p>
 
 <p align="center">
