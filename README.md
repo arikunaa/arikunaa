@@ -6,9 +6,6 @@
 </p>
 <p align="center">
   <sub>
-me and <a href="https://github.com/kittydummy">him</a>
-<p align="center">
-  <sub>
 "You are perfect. Too perfect to lose."
 <p align="center">
 <sub>
